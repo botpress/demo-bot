@@ -1,0 +1,13 @@
+{
+  "id": "pq7d88x8fs_why_do_i_need_a_chatbot",
+  "data": {
+    "questions": [
+      "Why do I need a chatbot?"
+    ],
+    "answer": "Chatbots can do many things, including answer simple questions so that human agents don't have to.",
+    "redirectFlow": "en.flow.json",
+    "redirectNode": "node-27c6",
+    "action": "text_redirect",
+    "enabled": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "qb0pjrofcn_who_are_botpress__competitors",
+  "data": {
+    "questions": [
+      "Who are Botpress' competitors?"
+    ],
+    "answer": "Botpress has unique features however there are quite a few bot platforms including Microsoft Bot Framework, Chatfuel, DialogFlow etc.",
+    "redirectFlow": "en.flow.json",
+    "redirectNode": "node-27c6",
+    "action": "text_redirect",
+    "enabled": true
+  }
+}

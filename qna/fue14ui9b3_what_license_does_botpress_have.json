@@ -1,0 +1,13 @@
+{
+  "id": "fue14ui9b3_what_license_does_botpress_have",
+  "data": {
+    "questions": [
+      "What license does Botpress have?"
+    ],
+    "answer": "Botpress has a dual license.  It can be licensed under the AGPL open source license or under a commercial license",
+    "redirectFlow": "en.flow.json",
+    "redirectNode": "node-27c6",
+    "action": "text_redirect",
+    "enabled": true
+  }
+}

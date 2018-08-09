@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "07ed24c0de",
+      "position": {
+        "x": 210,
+        "y": -145
+      }
+    },
+    {
+      "id": "6b4817b8cd",
+      "position": {
+        "x": 210,
+        "y": 105
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "07ed24c0de",
+      "sourcePort": "out2",
+      "target": "6b4817b8cd",
+      "points": [
+        {
+          "x": 417,
+          "y": 1
+        },
+        {
+          "x": 310,
+          "y": 99
+        }
+      ]
+    }
+  ]
+}

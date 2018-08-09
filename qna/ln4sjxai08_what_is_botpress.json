@@ -1,0 +1,13 @@
+{
+  "id": "ln4sjxai08_what_is_botpress",
+  "data": {
+    "questions": [
+      "What is Botpress?"
+    ],
+    "answer": "Botpress is a platform that developers can use to develop chatbots.  Developers can also create user friendly tools to non-developers to add to and manage the chatbot.",
+    "redirectFlow": "en.flow.json",
+    "redirectNode": "node-27c6",
+    "action": "text_redirect",
+    "enabled": true
+  }
+}

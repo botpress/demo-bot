@@ -1,0 +1,196 @@
+[
+  {
+    "id": "builtin_text-pSsHWg",
+    "formData": {
+      "text": "👋, {{state.$r}}!",
+      "variations": [
+        "Hello, {{state.$r}}!",
+        "Welcome to Botpress, {{state.$r}}!"
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:57:36.026Z"
+  },
+  {
+    "id": "builtin_text-AY5SSW",
+    "formData": {
+      "text": "This is the first time we speak 🤖",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:59:51.118Z"
+  },
+  {
+    "id": "builtin_text-bFsOmf",
+    "formData": {
+      "text": "We already spoke {{state.$r}} times!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:00:37.593Z"
+  },
+  {
+    "id": "builtin_text-TtzrCV",
+    "formData": {
+      "text": "Alright, I have forgotten your name.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:06:41.963Z"
+  },
+  {
+    "id": "builtin_text-z0J9qh",
+    "formData": {
+      "text": "May I know your name please?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:08:41.241Z"
+  },
+  {
+    "id": "builtin_text-X069Le",
+    "formData": {
+      "text": "Try saying something like \"forget my name\"!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:16:53.227Z"
+  },
+  {
+    "id": "builtin_text-kKQ8C3",
+    "formData": {
+      "text": "(To see how this works, double-click anywhere on the flow and go to the \"Transitions\" panel)",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:17:55.317Z"
+  },
+  {
+    "id": "builtin_text-lflYLH",
+    "formData": {
+      "text": "How do you say hello in your language (English or French)?",
+      "variations": [],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-06T18:37:38.807Z"
+  },
+  {
+    "id": "builtin_text-fh0Ltl",
+    "formData": {
+      "text": "Sorry did you say something in English or French, I'm was waiting for you to say hello in one of those languages?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-06T18:40:48.262Z"
+  },
+  {
+    "id": "builtin_text-Fwf2I9",
+    "formData": {
+      "text": "Bonjour",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-07T12:15:59.342Z"
+  },
+  {
+    "id": "builtin_text-mBvg0A",
+    "formData": {
+      "text": "Sorry but I can't help you(",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-07T14:01:37.589Z"
+  },
+  {
+    "id": "builtin_text-TXfdDI",
+    "formData": {
+      "text": "OK Hello. I'm Mr. Press, but you can call me Bot.  Not Bob, Bot.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-07T15:00:28.289Z"
+  },
+  {
+    "id": "builtin_text-~kfCS3",
+    "formData": {
+      "text": "I am a simple demo that allows you to look behind the scenes at how I was made",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-07T15:01:05.088Z"
+  },
+  {
+    "id": "builtin_text-lLcRSl",
+    "formData": {
+      "text": "Please let me know what I can help you with by clicking a button below:",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-07T15:01:41.528Z"
+  },
+  {
+    "id": "builtin_text-Y2WnFj",
+    "formData": {
+      "text": "OK great.  To keep it simple I can answer about 10 questions about the product so let's see if you ask one of those ten questions.  What is your question?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-07T15:08:22.290Z"
+  },
+  {
+    "id": "builtin_text-pgUR5j",
+    "formData": {
+      "text": "Did that answer your question?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-07T15:13:15.440Z"
+  },
+  {
+    "id": "builtin_text-SJ6h3l",
+    "formData": {
+      "text": "Greate!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-07T15:14:32.196Z"
+  },
+  {
+    "id": "builtin_text-sOVRUM",
+    "formData": {
+      "text": "Oh dear. I'm sorry.  You can ask \"what license does Botpress use\" if that makes you feel better?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-07T15:15:16.898Z"
+  },
+  {
+    "id": "builtin_text-hoV~PQ",
+    "formData": {
+      "text": "What is your question?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-09T10:31:20.733Z"
+  },
+  {
+    "id": "builtin_text-CU~GvC",
+    "formData": {
+      "text": "1. What is Botpress?\n2. Why do I need a chatbot?\n3. What is a chabot?\n4. Who should use Botpress?\n5. Who are Botpress' competitors?\n6. Where is Botpress based?\n7. What technology does Botpress use?\n8. What is the Botpress pricing?\n9. What license does Botpress have?\n10. What is open source?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-09T15:37:26.463Z"
+  },
+  {
+    "id": "builtin_text-IzWaqd",
+    "formData": {
+      "text": "Oh dear, your question wasn't recognized, I'm so embarressed I can't even look at you. Let's try again.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-09T15:39:21.360Z"
+  }
+]

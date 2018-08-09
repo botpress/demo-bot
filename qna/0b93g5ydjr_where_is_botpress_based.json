@@ -1,0 +1,13 @@
+{
+  "id": "0b93g5ydjr_where_is_botpress_based",
+  "data": {
+    "questions": [
+      "Where is Botpress based?"
+    ],
+    "answer": "The main Botpress office in in Quebec Canada although we have people in Europe and the Middle East.",
+    "redirectFlow": "en.flow.json",
+    "redirectNode": "node-27c6",
+    "action": "text_redirect",
+    "enabled": true
+  }
+}

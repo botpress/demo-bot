@@ -1,0 +1,108 @@
+[
+  {
+    "id": "builtin_single-choice-13Ysut",
+    "formData": {
+      "text": "Please let me know what I can help you with by clicking a button below:",
+      "choices": [
+        {
+          "title": "Product Inquiry",
+          "value": "pi"
+        }
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-07T15:03:56.536Z"
+  },
+  {
+    "id": "builtin_single-choice-ODWaWI",
+    "formData": {
+      "text": "Did that answer your question?",
+      "choices": [
+        {
+          "title": "Yes",
+          "value": "yes"
+        },
+        {
+          "title": "No",
+          "value": "no"
+        }
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-08T16:25:11.179Z"
+  },
+  {
+    "id": "builtin_single-choice-umTBq3",
+    "formData": {
+      "text": "Sorry did you say something in English or French, I'm was waiting for you to say hello in one of those languages?",
+      "choices": [
+        {
+          "title": "French",
+          "value": "fn"
+        },
+        {
+          "title": "English",
+          "value": "en"
+        }
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-09T10:08:00.996Z"
+  },
+  {
+    "id": "builtin_single-choice-NTQHQn",
+    "formData": {
+      "text": "Oh dear. I'm sorry.  You can ask \"what license does Botpress use\" if that makes you feel better?",
+      "choices": [
+        {
+          "title": "I want to ask another question?",
+          "value": "other"
+        }
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-09T10:21:35.104Z"
+  },
+  {
+    "id": "builtin_single-choice-5mELxx",
+    "formData": {
+      "text": "Did that answer your question?",
+      "choices": [
+        {
+          "title": "No",
+          "value": "no"
+        },
+        {
+          "title": "Yes",
+          "value": "yes"
+        }
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-09T10:29:27.089Z"
+  },
+  {
+    "id": "builtin_single-choice-9QtsmX",
+    "formData": {
+      "text": "Please let me know what I can help you with by clicking a button below:",
+      "choices": [
+        {
+          "title": "I want to ask another question",
+          "value": "askother"
+        },
+        {
+          "title": "Product Inquiry",
+          "value": "PI"
+        }
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-08-09T14:56:47.327Z"
+  }
+]

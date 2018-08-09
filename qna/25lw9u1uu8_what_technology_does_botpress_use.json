@@ -1,0 +1,13 @@
+{
+  "id": "25lw9u1uu8_what_technology_does_botpress_use",
+  "data": {
+    "questions": [
+      "What technology does Botpress use?"
+    ],
+    "answer": "Botpress is built on AGPL technology.",
+    "redirectFlow": "en.flow.json",
+    "redirectNode": "node-27c6",
+    "action": "text_redirect",
+    "enabled": true
+  }
+}

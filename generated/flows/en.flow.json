@@ -1,0 +1,121 @@
+{
+  "version": "0.1",
+  "catchAll": {},
+  "startNode": "node-5794",
+  "nodes": [
+    {
+      "id": "248b46a13e",
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_single-choice-13Ysut"
+      ],
+      "onReceive": [],
+      "next": [
+        {
+          "condition": "event.payload === 'PI'",
+          "node": "node-96ec"
+        }
+      ]
+    },
+    {
+      "id": "d254909b67",
+      "name": "node-96ec",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-Y2WnFj",
+        "say #!builtin_text-CU~GvC"
+      ],
+      "onReceive": [
+        "say #!builtin_text-IzWaqd"
+      ]
+    },
+    {
+      "id": "84aed1c4d9",
+      "name": "node-27c6",
+      "next": [
+        {
+          "condition": "event.text === 'No'",
+          "node": "node-37da"
+        },
+        {
+          "condition": "event.text === 'Yes'",
+          "node": "node-6c62"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_single-choice-5mELxx"
+      ],
+      "onReceive": []
+    },
+    {
+      "id": "0f9e74894b",
+      "name": "node-6c62",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-SJ6h3l"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "2c341f74d9",
+      "name": "node-37da",
+      "next": [
+        {
+          "condition": "true",
+          "node": "node-dd22"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_single-choice-NTQHQn"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "5e2cd9ce4b",
+      "name": "node-7b9e",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-hoV~PQ"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "566ed34a10",
+      "name": "node-5794",
+      "next": [
+        {
+          "condition": "true",
+          "node": "entry"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-TXfdDI",
+        "say #!builtin_text-~kfCS3"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "1dcf76064c",
+      "name": "node-dd22",
+      "next": [
+        {
+          "condition": "event.payload === 'ASKOTHER'",
+          "node": "node-7b9e"
+        },
+        {
+          "condition": "event.payload === 'PI'",
+          "node": "node-96ec"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_single-choice-9QtsmX"
+      ],
+      "onReceive": null
+    }
+  ]
+}

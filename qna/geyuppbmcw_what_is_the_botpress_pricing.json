@@ -1,0 +1,13 @@
+{
+  "id": "geyuppbmcw_what_is_the_botpress_pricing",
+  "data": {
+    "questions": [
+      "What is the Botpress pricing?"
+    ],
+    "answer": "The pricing is still under development, please come back to me soon about that.",
+    "redirectFlow": "en.flow.json",
+    "redirectNode": "node-27c6",
+    "action": "text_redirect",
+    "enabled": true
+  }
+}

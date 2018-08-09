@@ -1,0 +1,13 @@
+{
+  "id": "k7h6y4njgl_who_should_use_botpress",
+  "data": {
+    "questions": [
+      "Who should use Botpress?"
+    ],
+    "answer": "It's built mainly for developers who want a flexible and easy way to build bots.  That is it is not built for superusers although superusers can do a lot on the system.",
+    "redirectFlow": "en.flow.json",
+    "redirectNode": "node-27c6",
+    "action": "text_redirect",
+    "enabled": true
+  }
+}

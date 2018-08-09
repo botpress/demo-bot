@@ -1,0 +1,13 @@
+{
+  "id": "o6jrylndxr_what_is_a_chabot",
+  "data": {
+    "questions": [
+      "What is a chabot?"
+    ],
+    "answer": "A chatbot is software that has a conversation with a human, either by voice or via text messages.",
+    "redirectFlow": "en.flow.json",
+    "redirectNode": "node-27c6",
+    "action": "text_redirect",
+    "enabled": true
+  }
+}

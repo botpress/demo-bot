@@ -1,0 +1,13 @@
+{
+  "id": "f1bz8q9yvf_what_is_open_source",
+  "data": {
+    "questions": [
+      "What is open source?"
+    ],
+    "answer": "Sofward is open-source is you can see the source code for the project.  Botpress is licensed under an open-source license called AGPL.",
+    "redirectFlow": "en.flow.json",
+    "redirectNode": "node-27c6",
+    "action": "text_redirect",
+    "enabled": true
+  }
+}
